@@ -1,0 +1,7 @@
+Activa ESP8266
+Inicializa el puerto de comunicacions serial
+Envia comandos AT cada 10 segundos
+Inicializa ESP8266 para la comunicación
+Inicializa pines de control del esp8266
+Desactiva
+Envia datos
